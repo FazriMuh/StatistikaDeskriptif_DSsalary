@@ -2,7 +2,7 @@
 ## Visualization
 
 <p style="float: left">
-    <img src="/Visualisasi/Nomor 1.png" width="30%" alt="Mean" />
+    <img src="/Visualisasi/Nomor 1_3.png" width="30%" alt="Mean" />
     <img src="/Visualisasi/nomor 2.png" width="30%" alt="Mean 2" />
     <img src="/Visualisasi/nomor 3.png" width="30%" alt="Sum" />
 </p>
