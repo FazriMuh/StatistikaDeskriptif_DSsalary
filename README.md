@@ -2,13 +2,13 @@
 ## Demo Images
 
 <p style="float: left">
-    <img src="/Visualisasi/Nomor1.png" width="30%" alt="Splashscreen" />
-    <img src="/demoImages/log in.png" width="30%" alt="Login" />
-    <img src="/demoImages/Home.png" width="30%" alt="Homescreen" />
+    <img src="/Visualisasi/Nomor 1.png" width="30%" alt="Mean" />
+    <img src="/demoImages/nomor 2.png" width="30%" alt="Mean 2" />
+    <img src="/demoImages/nomor 3.png" width="30%" alt="Sum" />
 </p>
 <br>
 <p style="float: left">
-    <img src="/demoImages/Screen Persediaan Barang.png" width="30%" alt="Screen Persediaan Barang" />
-    <img src="/demoImages/Input Barang.png" width="30%" alt="Input Barang" />
-    <img src="/demoImages/View Data Barang.png" width="30%" alt="View Data" />
+    <img src="/demoImages/Nomor 4.png" width="30%" alt="Mean 3" />
+    <img src="/demoImages/nomor 5.png" width="30%" alt="Boxplot" />
+    <img src="/demoImages/nomor 7.png" width="30%" alt="Pie Chart" />
 </p>
