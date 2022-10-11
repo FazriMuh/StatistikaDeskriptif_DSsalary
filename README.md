@@ -1,5 +1,5 @@
 # StatistikaDeskriptif_DSsalary
-## Demo Images
+## Visualization
 
 <p style="float: left">
     <img src="/Visualisasi/Nomor 1.png" width="30%" alt="Mean" />
